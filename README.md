@@ -3,9 +3,9 @@
 
 ## Autores:
 
-- Team name: BookML.
-- Github repository: https://github.com/sheldon7681/federated-models.git 
-- Roles
+- Nombre del equipo: BookML.
+- Repositorio de Github: https://github.com/sheldon7681/federated-models.git 
+- Miembros:
     - Luis Angel: 
     - Jorge Rocha: 
     - Pamela Ruiz: 
