@@ -39,7 +39,7 @@ uv sync
 
 1. Descargar los datos y separarlos en n folds y ponerlos en el folder ```data``` 
 
-2. Correr el notebook con el nombre ```entrenamiento_local.ipynb ``` y guardar los modelos ```models```
+2. Correr el notebook con el nombre ```entrenamiento_local.ipynb ``` que está dentro de la carpeta **notebooks** y guardar los modelos ```models```
 
 3. Correr el notebook ```entrenamiento_global.ipynb```
 
